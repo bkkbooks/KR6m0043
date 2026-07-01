@@ -1,0 +1,158 @@
+canonical_identifier: bkk:krp/KR6m0043/X/v1
+canonical_location: https://kanripo.org/bkk/KR6m0043/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 夾科肇論序注
+  identifiers:
+    krp: KR6m0043
+    cbeta: X54n0869
+    cbeta_old_id: X54n0869
+    authorityid: CA0004043
+    json_key: X0869
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0869.xml
+    old_id: X54n0869
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0043_000-X.yaml, hash: 'sha256:f7a5cd7d1300e4266232b70fa0d5a823b8c54574d8057eb1552e0964c0207754'}
+  - {seq: 1, filename: KR6m0043_001-X.yaml, hash: 'sha256:1d44175b715f85c2b3c19d22eb14169875f5f184909d875831542fa26f75daf1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6m0043_000-X.markers.yaml, hash: 'sha256:92d1db95853d8f1da72e397b22b96e0793be2b7f129562468f333c6499f07226'}
+  - {seq: 1, role: markers, filename: assets/KR6m0043_001-X.markers.yaml, hash: 'sha256:02e9e4767fbfdf3b932f97181930c8b0c0d91f81298a60191aeb61cab91a9e06'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5069
+  label: 夾科肇論序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 通序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-2
+    span:
+    - body
+    - 89
+    - 89
+  label: 第一標舉論名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-3
+    span:
+    - body
+    - 677
+    - 677
+  label: 第二稱美人法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-4
+    span:
+    - body
+    - 2650
+    - 2650
+  label: 第三慶幸遭逢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-5
+    span:
+    - body
+    - 2850
+    - 2850
+  label: 第四排斥譏嫌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-6
+    span:
+    - body
+    - 3143
+    - 3143
+  label: 第五申述元情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-7
+    span:
+    - body
+    - 3414
+    - 3414
+  label: 第六宣明序意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-8
+    span:
+    - body
+    - 3620
+    - 3620
+  label: 別序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-9
+    span:
+    - body
+    - 3655
+    - 3655
+  label: 第一序次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-10
+    span:
+    - body
+    - 4063
+    - 4063
+  label: 第二遣相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-11
+    span:
+    - body
+    - 4357
+    - 4357
+  label: 第三稱歎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0043_X_001-mulu-12
+    span:
+    - body
+    - 4966
+    - 4966
+  label: 第四簡別是論非論
+  type: mulu
+  level: 1
+hash: sha256:c79ff8f9b93688efeb014f6780a8855fc7c05327c2d460df66dd56f96c1f31ac

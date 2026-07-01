@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0043/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 夾科肇論序注
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0869.xml
+    old_id: X54n0869
+hash: sha256:f7a5cd7d1300e4266232b70fa0d5a823b8c54574d8057eb1552e0964c0207754
