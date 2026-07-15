@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6m0043/v1
 canonical_location: https://kanripo.org/bkk/KR6m0043/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 夾科肇論序注
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0043_000.yaml, hash: 'sha256:f7a5cd7d1300e4266232b70fa0d5a823b8c54574d8057eb1552e0964c0207754'}
-  - {seq: 1, filename: KR6m0043_001.yaml, hash: 'sha256:1d44175b715f85c2b3c19d22eb14169875f5f184909d875831542fa26f75daf1'}
+  - {seq: 1, filename: KR6m0043_001.yaml, hash: 'sha256:f24f95369cd406bebf70ff2151a7b36b92bc7e9cc94961c4e39a602f8f877736'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6m0043_000.markers.yaml, hash: 'sha256:cdbaa068812dc9c175081ad512d12fd9ec1f9ce933bdae70f40c25bba093cf58'}
-  - {seq: 1, role: markers, filename: assets/KR6m0043_001.markers.yaml, hash: 'sha256:24b2f123af3f542dae3651d3bf1a96345685c33331a31a746ee52b54256c94b7'}
+  - {seq: 1, role: markers, filename: assets/KR6m0043_001.markers.yaml, hash: 'sha256:aa71d3e79dc7c67d01cfbc82f739a5032a543789038b5c3d631d4ff9594c9c0b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -157,4 +157,7 @@ table_of_contents:
   label: 第四簡別是論非論
   type: mulu
   level: 1
-hash: sha256:5953c1e8af140665b23d4ac4e11feb8e918cc7a0f741d8bcebff051e31078849
+hash: sha256:483acc9673f6af76ed1ad601471f0b1d85fb3fcfa0b5f1a7c7d20d89030aef94
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
